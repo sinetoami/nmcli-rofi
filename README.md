@@ -1,4 +1,5 @@
 # nmcli-rofi
+## :warning: this repository was transferred to another owner: [sineto/nmcli-rofi](https://github.com/sineto/nmcli-rofi).
 
 A simple manager for network connections using [rofi](https://github.com/DaveDavenport/rofi) and 
 [nmcli](https://jlk.fjfi.cvut.cz/arch/manpages/man/nmcli.1). 
